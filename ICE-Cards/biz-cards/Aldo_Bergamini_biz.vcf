@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bergamini;Aldo
+FN:Aldo Bergamini
+ORG:iBat.io
+TITLE:Chief Engineer 
+ADR:;;;Dún Laoghaire;;A96 VP94;Ireland
+TEL;TYPE=WORK;VOICE:+35319638931
+TEL;TYPE=CELL;VOICE:+353873450116
+EMAIL;WORK;INTERNET:aaberga@ibat.io
+URL:https://ibat.io
+END:VCARD

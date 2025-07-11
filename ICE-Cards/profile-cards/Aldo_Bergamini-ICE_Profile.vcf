@@ -1,10 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//macOS 15.5//EN
-FN:Aldo Huggenmüller
-N:Huggenmüller;Aldo;;;
+N:Bergamini;Aldo
+FN:Aldo Bergamini
 TITLE:Principal Engineer;
 ORG:iBat.io;
+TEL;TYPE=WORK;VOICE:+35319638931
+EMAIL;WORK;INTERNET:aaberga@gmail.com
 ADR;type=WORK;type=pref:;;;Dun Laoghaire;Dublin;A96 VP94;Ireland
 NOTE:Welcome to the Profile of Aldo Bergamini.\n\nI am a Senior Software Engineer specialising in native Apple platform development and with growing experience in FastAPI / Python REST APIs supporting mobile development.\n\nPlease use any to the links provided to get in touch with me.\n\n- AAB
 URL;type=WORK;type=pref:https://ibat.blog/

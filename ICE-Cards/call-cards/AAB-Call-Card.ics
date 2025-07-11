@@ -22,7 +22,7 @@ TZNAME:GMT
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250710
+DTSTART;VALUE=DATE:20250720
 
 SUMMARY:Call Anytime Between 14:00 and 17:00
 DESCRIPTION:You can call me any day between 14:00 and 17:00 (Irish time). I’ll be happy to chat briefly about your project and introduce myself.

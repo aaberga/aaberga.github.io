@@ -1,23 +1,23 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//macOS 15.5//EN
-FN:Aldo Bergamini
-N:Bergamini;Aldo;;;
+FN:Aldo Huggenmüller
+N:Huggenmüller;Aldo;;;
 TITLE:Principal Engineer;
 ORG:iBat.io;
 ADR;type=WORK;type=pref:;;;Dun Laoghaire;Dublin;A96 VP94;Ireland
-NOTE:Welcome to the ICE Profile of Aldo Bergamini.\n\nI am a Senior Software Engineer specialising in native Apple platform development and with growing experience in FastAPI / Python REST APIs supporting mobile development.\n\nPlease use any to the links provided to get in touch with me.\n\n- AAB
+NOTE:Welcome to the Profile of Aldo Bergamini.\n\nI am a Senior Software Engineer specialising in native Apple platform development and with growing experience in FastAPI / Python REST APIs supporting mobile development.\n\nPlease use any to the links provided to get in touch with me.\n\n- AAB
 URL;type=WORK;type=pref:https://ibat.blog/
 item1.URL:https://www.linkedin.com/in/aabergamini/
 item1.X-ABLabel:LinkedIn
-item2.URL:https://ibat.blog/profile
-item2.X-ABLabel:Profile
-item3.URL:https://ibat.blog/homepage
-item3.X-ABLabel:_$!<HomePage>!$_
-item4.URL:https://ibat.blog/call
-item4.X-ABLabel:Call
-item5.URL:https://ibat.blog/calendar
-item5.X-ABLabel:Calendar
+item2.URL:https://www.xing.com/profile/Aldo_Bergamini2/
+item2.X-ABLabel:Xing
+item3.URL:https://calendly.com/aaberga
+item3.X-ABLabel:Calendly
+item4.URL:https://stackoverflow.com/users/1489155/aaberga
+item4.X-ABLabel:StackOverflow
+item5.URL:https://genqrco.de/biLUOXH
+item5.X-ABLabel:CallMe
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBARXhpZgAATU0AKgAA
  AAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAA3qADAAQAAAABAAAA3wAAAAD/7QA4UG
  hvdG9zaG9wIDMuMAA4QklNBAQAAAAAAAA4QklNBCUAAAAAABDUHYzZjwCyBOmACZjs+EJ+/+IC
